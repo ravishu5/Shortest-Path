@@ -1,0 +1,42 @@
+.grid {
+  margin: 20px 0 0;
+}
+.navBar {
+  height: 50px;
+  background-color: rgb(4, 159, 248);
+  color: white;
+  font-size: 30px;
+  font-style: oblique;
+  font-weight: bold;
+}
+.button {
+  height: 40px;
+  background-color: rgb(19, 214, 39);
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 3px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.button:hover{
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+}
+.icons1{
+  margin: 0 10px;
+}
+.footer{
+  height: 50px;
+  background-color: rgb(246, 15, 15);
+  color:white;
+}
+.icons{
+  font-size: 30px;
+  margin: 10px 10px;
+  cursor: pointer;
+}
+.icons:hover{
+  color: rgb(13, 98, 141);
+}
